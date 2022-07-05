@@ -2,7 +2,8 @@ En mis inicios como programados tome la decision de incursionar en la creacion d
 La misma fue creada con React.
 
 
-https://user-images.githubusercontent.com/99038380/177393350-ae31ed83-f8d0-48da-aaa1-99fbe0b7d8e7.mp4
 
-![Captura desde 2022-07-05 15-33-24](https://user-images.githubusercontent.com/99038380/177393380-49359a92-fb3b-4da4-8e76-a7e7d32bcf23.png)
-![Captura desde 2022-07-05 15-33-49](https://user-images.githubusercontent.com/99038380/177393389-f6ab9aff-bd16-417f-a4c9-1ad387ace95d.png)
+https://user-images.githubusercontent.com/99038380/177394264-bd56e766-b51c-485b-a9f9-315e70b920da.mp4
+
+![Captura desde 2022-07-05 15-41-00](https://user-images.githubusercontent.com/99038380/177394338-f923f22a-4899-46a1-97ba-a7c7f9249e11.png)
+![Captura desde 2022-07-05 15-41-14](https://user-images.githubusercontent.com/99038380/177394345-8a06ef3d-73f3-4d3e-b05b-3d991d7fd094.png)
